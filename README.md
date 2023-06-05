@@ -2,7 +2,7 @@
 <!-- <h3 align="center">A passionate 💻 developer & 🎓 an undergrad CSE Student</h3> -->
 <h2 align="center">About me</h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2351B4F2&lines=A+CSE+Undergrad+student+🎓+!;A+programmer+💻+!;I+am+a+Cloud+Developer+☁+!;A+Web+Developer+..;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2351B4F2&lines=A+CSE+Undergrad+student+🎓+!;A+programmer+💻+!;I+am+a+☁+Developer+!;A+Web+Developer+..;)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayaanarshad&label=Profile%20views&color=0e75b6&style=flat" alt="ayaanarshad" /> </p>
 

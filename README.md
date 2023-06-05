@@ -6,9 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayaanarshad&label=Profile%20views&color=0e75b6&style=flat" alt="ayaanarshad" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayaanarshad" alt="ayaanarshad" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayaanarshad" alt="ayaanarshad" /></a> </p> -->
 
+- 🌱 I’m currently working on Devops methodology
 - 💬 Ask me about **C,C++,Python,Flask,MongoDB**
+- 📫 How to reach me: [ayaan.arshad03@gmail.com](ayaan.arshad03@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

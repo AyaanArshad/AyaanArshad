@@ -8,7 +8,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayaanarshad" alt="ayaanarshad" /></a> </p> -->
 
-- 🌱 I’m currently exploring Devops methodology
+- 🌱 I’m currently exploring DevOps.
 - 💬 Ask me about **C,C++,Python,Flask,MongoDB**
 - 📫 How to reach me: [ayaan.arshad03@gmail.com](ayaan.arshad03@gmail.com)
 

@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayaan Arshad</h1>
 <!-- <h3 align="center">A passionate 💻 developer & 🎓 an undergrad CSE Student</h3> -->
-<h2 align="center">About me</h2>
+<!-- <h2 align="center">About me</h2> -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2351B4F2&lines=A+CSE+Undergrad+student+🎓+!;A+programmer+💻+!;I+am+a+☁+Developer+!;A+Web+Developer+..;)](https://git.io/typing-svg)
 

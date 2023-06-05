@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2351B4F2&lines=A+CSE+Undergrad+student+🎓+!;A+programmer+💻+!;I+am+a+☁+Developer+!;A+Web+Developer+..;)](https://git.io/typing-svg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayaanarshad&label=Profile%20views&color=0e75b6&style=flat" alt="ayaanarshad" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayaanarshad&label=Profile%20views&color=0e75b6&style=flat" alt="ayaanarshad" /> </p> -->
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayaanarshad" alt="ayaanarshad" /></a> </p> -->
 

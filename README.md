@@ -3,8 +3,8 @@
 ~ > Hi 👋 !!
 
 ~ > cat AyaanArshad.md
-[Cloud Security] [Cloud Secuirty @SentinelOne💜]
-[Cyber Sec] [Backend Dev]
+[Cloud Security 🌩️] [Containerization 📦]
+[Cyber Sec] [Full-Stack Dev]
 
 - 🔭 Currently focused on cloud security research.
 - 💬 Ask me about AWS, Cloud Pentesting, Containerization📦
